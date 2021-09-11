@@ -1,0 +1,13 @@
+E:\laptrinhcsdl\DemoNewsPaper\DemoNewsPaper\DemoNewsPaper\obj\Debug\DemoNewsPaper.csproj.AssemblyReference.cache
+E:\laptrinhcsdl\DemoNewsPaper\DemoNewsPaper\DemoNewsPaper\obj\Debug\DemoNewsPaper.AddFeedForm.resources
+E:\laptrinhcsdl\DemoNewsPaper\DemoNewsPaper\DemoNewsPaper\obj\Debug\DemoNewsPaper.Form1.resources
+E:\laptrinhcsdl\DemoNewsPaper\DemoNewsPaper\DemoNewsPaper\obj\Debug\DemoNewsPaper.Properties.Resources.resources
+E:\laptrinhcsdl\DemoNewsPaper\DemoNewsPaper\DemoNewsPaper\obj\Debug\DemoNewsPaper.csproj.GenerateResource.cache
+E:\laptrinhcsdl\DemoNewsPaper\DemoNewsPaper\DemoNewsPaper\obj\Debug\DemoNewsPaper.csproj.CoreCompileInputs.cache
+E:\laptrinhcsdl\DemoNewsPaper\DemoNewsPaper\DemoNewsPaper\bin\Debug\DemoNewsPaper.exe.config
+E:\laptrinhcsdl\DemoNewsPaper\DemoNewsPaper\DemoNewsPaper\bin\Debug\DemoNewsPaper.exe
+E:\laptrinhcsdl\DemoNewsPaper\DemoNewsPaper\DemoNewsPaper\bin\Debug\DemoNewsPaper.pdb
+E:\laptrinhcsdl\DemoNewsPaper\DemoNewsPaper\DemoNewsPaper\obj\Debug\DemoNewsPaper.exe
+E:\laptrinhcsdl\DemoNewsPaper\DemoNewsPaper\DemoNewsPaper\obj\Debug\DemoNewsPaper.pdb
+E:\laptrinhcsdl\DemoNewsPaper\DemoNewsPaper\DemoNewsPaper\bin\Debug\Data\data.txt
+E:\laptrinhcsdl\DemoNewsPaper\DemoNewsPaper\DemoNewsPaper\obj\Debug\DemoNewsPaper.Components.NewsControl.resources
