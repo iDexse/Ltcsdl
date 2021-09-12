@@ -1,0 +1,12 @@
+E:\laptrinhcsdl\Lab2\Lab2_VD2\Lab2_VD2\bin\Debug\Lab2_VD2.exe.config
+E:\laptrinhcsdl\Lab2\Lab2_VD2\Lab2_VD2\bin\Debug\Lab2_VD2.exe
+E:\laptrinhcsdl\Lab2\Lab2_VD2\Lab2_VD2\bin\Debug\Lab2_VD2.pdb
+E:\laptrinhcsdl\Lab2\Lab2_VD2\Lab2_VD2\obj\Debug\Lab2_VD2.csproj.AssemblyReference.cache
+E:\laptrinhcsdl\Lab2\Lab2_VD2\Lab2_VD2\obj\Debug\Lab2_VD2.frmGiaoVien.resources
+E:\laptrinhcsdl\Lab2\Lab2_VD2\Lab2_VD2\obj\Debug\Lab2_VD2.frmTBGiaoVien.resources
+E:\laptrinhcsdl\Lab2\Lab2_VD2\Lab2_VD2\obj\Debug\Lab2_VD2.Properties.Resources.resources
+E:\laptrinhcsdl\Lab2\Lab2_VD2\Lab2_VD2\obj\Debug\Lab2_VD2.csproj.GenerateResource.cache
+E:\laptrinhcsdl\Lab2\Lab2_VD2\Lab2_VD2\obj\Debug\Lab2_VD2.csproj.CoreCompileInputs.cache
+E:\laptrinhcsdl\Lab2\Lab2_VD2\Lab2_VD2\obj\Debug\Lab2_VD2.exe
+E:\laptrinhcsdl\Lab2\Lab2_VD2\Lab2_VD2\obj\Debug\Lab2_VD2.pdb
+E:\laptrinhcsdl\Lab2\Lab2_VD2\Lab2_VD2\obj\Debug\Lab2_VD2.FrmSearch.resources

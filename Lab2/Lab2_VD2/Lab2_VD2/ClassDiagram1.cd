@@ -1,0 +1,79 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Lab2_VD2.DanhMucMonHoc">
+    <Position X="0.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAkCAAAAAAAAAAAAAAAAAACAAAAAAA=</HashCode>
+      <FileName>DanhMucMonHoc.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Lab2_VD2.frmGiaoVien">
+    <Position X="2.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>MgAECAAAACHAJjEAAACAkEACAGMQBAAggAECCIAAEAI=</HashCode>
+      <FileName>Form1.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Lab2_VD2.FrmSearch">
+    <Position X="4" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAEAJAACCAAACBAAACAAAACAAEAFAAAACAAAAgCAAA=</HashCode>
+      <FileName>Form2.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Lab2_VD2.frmTBGiaoVien">
+    <Position X="9" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAIACAAAAABAICAAAACAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>frmTBGiaoVien.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Lab2_VD2.GiaoVien">
+    <Position X="7.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAUAAAAAAAAEAAAAAABAAAACQAAICI=</HashCode>
+      <FileName>GiaoVien.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Lab2_VD2.MonHoc">
+    <Position X="5.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAACAAAAAAAAAAAEAAAAAAAAAACAAAAAAAAAAAAAABA=</HashCode>
+      <FileName>MonHoc.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Lab2_VD2.Program">
+    <Position X="0.5" Y="5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAA=</HashCode>
+      <FileName>Program.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Lab2_VD2.QuanLyGiaoVien">
+    <Position X="7.5" Y="4" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAgCCAAAAAAAAAAAAAAAAAAAEAAAAA=</HashCode>
+      <FileName>QuanLyGiaoVien.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Lab2_VD2.Properties.Resources">
+    <Position X="5.75" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAABEAAAAQAAAAAAAAAAAAAAAIA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Lab2_VD2.Properties.Settings">
+    <Position X="0.5" Y="3" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAIAAAAAABAAAAAAAAAAAAAAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Enum Name="Lab2_VD2.KieuTim">
+    <Position X="4" Y="5.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAEAAAAAAAAAAABAAAAAAAAAAAAAAAAAAAQAAAA=</HashCode>
+      <FileName>KieuTim.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
