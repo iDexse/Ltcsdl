@@ -1,0 +1,10 @@
+E:\laptrinhcsdl\SinhVien\SinhVien\obj\Debug\SinhVien.csproj.AssemblyReference.cache
+E:\laptrinhcsdl\SinhVien\SinhVien\obj\Debug\SinhVien.Form1.resources
+E:\laptrinhcsdl\SinhVien\SinhVien\obj\Debug\SinhVien.Properties.Resources.resources
+E:\laptrinhcsdl\SinhVien\SinhVien\obj\Debug\SinhVien.csproj.GenerateResource.cache
+E:\laptrinhcsdl\SinhVien\SinhVien\obj\Debug\SinhVien.csproj.CoreCompileInputs.cache
+E:\laptrinhcsdl\SinhVien\SinhVien\bin\Debug\SinhVien.exe.config
+E:\laptrinhcsdl\SinhVien\SinhVien\bin\Debug\SinhVien.exe
+E:\laptrinhcsdl\SinhVien\SinhVien\bin\Debug\SinhVien.pdb
+E:\laptrinhcsdl\SinhVien\SinhVien\obj\Debug\SinhVien.exe
+E:\laptrinhcsdl\SinhVien\SinhVien\obj\Debug\SinhVien.pdb
