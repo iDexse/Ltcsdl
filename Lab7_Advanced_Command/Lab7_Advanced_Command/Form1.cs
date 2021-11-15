@@ -169,11 +169,6 @@ namespace Lab7_Advanced_Command
 
             dgvFoodList.DataSource = foodView;
         }
-
-        
-
-       
-
         private void btnAccount_Click(object sender, EventArgs e)
         {
             Form2 frm = new Form2();

@@ -41,40 +41,41 @@ namespace Lab7_Advanced_Command
 
         private void button1_Click(object sender, EventArgs e)
         {
-           // string connectionstring = "data source=desktop-lfqoekc;initial catalog=restaurant_management;integrated security=true";
-           // sqlconnection connection = new sqlconnection(connectionstring);
+            string connectionstring = "data source=desktop-lfqoekc;initial catalog=restaurant_management;integrated security=true";
+            SqlConnection connection = new SqlConnection(connectionstring);
 
-           // sqlcommand command = connection.createcommand();
-           // command.commandtext = "execute insertaccount @accountname, @password, @fullname, @email, @tell, @datecreated";
+            SqlCommand command = connection.CreateCommand();
+            command.CommandText = "EXECUTE InsertAccount @AccountName, @Password, @Fullname, @Email, @Tell, @DateCreated";
 
-           // command.parameters.add("@accountname", sqldbtype.nvarchar,100);
-           // command.parameters.add("@password", sqldbtype.nvarchar, 200);
-           // command.parameters.add("@fullname", sqldbtype.nvarchar, 1000);
-           // command.parameters.add("@email", sqldbtype.nvarchar, 1000);
-           // command.parameters.add("@tell", sqldbtype.nvarchar,200);
-           // command.parameters.add("@datecreated", sqldbtype.smalldatetime);
+            command.Parameters.Add("@AccountName", SqlDbType.NVarChar,100);
+            command.Parameters.Add("@Password", SqlDbType.NVarChar, 200);
+            command.Parameters.Add("@Fullname", SqlDbType.NVarChar, 1000);
+            command.Parameters.Add("@Email", SqlDbType.NVarChar, 1000);
+            command.Parameters.Add("@Tell", SqlDbType.NVarChar, 200);
+            command.Parameters.Add("@DateCreated", SqlDbType.SmallDateTime);
 
-           // command.parameters["@accountname"].value = txtaccname.text;
-           // command.parameters["@password"].value = txtpass.text;
-           // command.parameters["@fullname"].value = txtfullname.text;
-           // command.parameters["@email"].value = txtemail.text;
-           // command.parameters["@tell"].value = mtxttell.text;
-           // command.parameters["@datecreated"].value=datetime;
-           // connection.open();
+            command.Parameters["@AccountName"].Value = txtAccName.Text;
+            command.Parameters["@Password"].Value = txtPass.Text;
+            command.Parameters["@FullName"].Value = txtFullName.Text;
+            command.Parameters["@Email"].Value = txtEmail.Text;
+            command.Parameters["@Tell"].Value = mtxtTell.Text;
+            command.Parameters["@DateCreated"].Value = dtpDateCreate.Value;
+            connection.Open();
 
-           // int numrowaffected = command.executenonquery();
+            int numrowaffected = command.ExecuteNonQuery();
 
-           // if (numrowaffected > 0)
-           // {
-           //     messagebox.show("thêm thành công");
-           // }
-           //else
-           // {
-           //     messagebox.show("lỗi!");
-           // }
+            if (numrowaffected > 0)
+            {
+                MessageBox.Show("thêm thành công");
+                this.LoadAccount();
+            }
+           else
+            {
+                MessageBox.Show("lỗi!");
+            }
 
-           // connection.close();
-           // connection.dispose();
+            connection.Close();
+            connection.Dispose();
         }
     }
 }
