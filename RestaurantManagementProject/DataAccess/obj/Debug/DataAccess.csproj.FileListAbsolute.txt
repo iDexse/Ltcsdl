@@ -1,0 +1,6 @@
+E:\laptrinhcsdl\RestaurantManagementProject\DataAccess\bin\Debug\DataAccess.dll
+E:\laptrinhcsdl\RestaurantManagementProject\DataAccess\bin\Debug\DataAccess.pdb
+E:\laptrinhcsdl\RestaurantManagementProject\DataAccess\obj\Debug\DataAccess.csproj.AssemblyReference.cache
+E:\laptrinhcsdl\RestaurantManagementProject\DataAccess\obj\Debug\DataAccess.csproj.CoreCompileInputs.cache
+E:\laptrinhcsdl\RestaurantManagementProject\DataAccess\obj\Debug\DataAccess.dll
+E:\laptrinhcsdl\RestaurantManagementProject\DataAccess\obj\Debug\DataAccess.pdb
